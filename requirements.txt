@@ -1,0 +1,7 @@
+flask
+PyMuPDF
+pdf2image
+pytesseract
+rapidfuzz
+nltk
+reportlab
